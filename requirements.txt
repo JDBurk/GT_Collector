@@ -1,8 +1,8 @@
-arxiv==2.2.0
-google-auth==2.40.3
-google-genai==1.32.0
+#arxiv==2.2.0
+#google-auth==2.40.3
+#google-genai==1.32.0
 matplotlib==3.10.6
-numpy==2.3.3
+#numpy==2.3.3
 openpyxl==3.1.5
 pandas==2.3.2
 pytrends==4.9.2
