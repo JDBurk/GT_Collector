@@ -1,0 +1,14 @@
+# Python Virtual Environment
+.venv/
+# Python cache files
+__pycache__/
+# Downloaded Files
+downloads/
+# VSCode workspace
+VS_Code/
+# Ebay_monitor Tool (broken)
+tools/ebay_monitor/
+# obsolete arxiv_monitor tool files
+tools/arxiv_monitor/_obs
+# obsolete gtrends_monitor tool files
+tools/gtrends_analyzer/_obs
